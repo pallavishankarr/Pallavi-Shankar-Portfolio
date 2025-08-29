@@ -1,15 +1,18 @@
 import './App.css';
-import Header from './components/header/Header';
-import Home from './components/home/Home';
+import Header from './components/Header';
+import Home from './components/Home';
+import Experience from './components/Experience';
+import Projects from './components/Projects';
 
 function App() {
   return (
     <>
     <Header />
-
-    <main className="main">
-      <Home />
-    </main>
+          <main className="main">
+        <Home />
+        <Experience />
+        <Projects />
+      </main>
     </>
   );
 }
