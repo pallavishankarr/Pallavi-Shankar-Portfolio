@@ -8,27 +8,27 @@ const experiences = [
     {
       id: 2,
       title: "Software Director at Northeastern iGEM",
-      description: "Finish description later",
+      description: "Developing the official web platform for Northeastern iGEM team submissions to showcase their project to judges. Currently building and styling the site using HTML and CSS, focusing on clear navigation and engaging presentation of scientific content.",
       timeline: "July 2025 - Present",
     },
     {
-      id: 3,
-      title: "Data Analyst Extern at Beats by Dr. Dre",
-      description: "I am working on a project to analyze the data of the Beats by Dr. Dre brand. I am using the Pandas library to analyze the data and the Matplotlib library to visualize the data.",
-      timeline: "July 2025 - Present",
-    },
-    {
-        id: 4,
+        id: 3,
         title: "Teaching Assistant for CS2510 at Northeastern University",
         description: "I am currently a teaching assistant for the Fundamentals of Computer Science 2 course at Northeastern. My responsibilities include helping students during office hours, during lab sessions, and grading assignments + exams. I will be helping TA during the course switchove from Java to Python.",
         timeline: "May 2025 - Present",
     },
     {
-        id: 5,
+        id: 4,
         title: "Software Engineering Intern at Secured Health",
-        description: "I helped develop platform. Add more description later.",
+        description: "Assisted in adding new features to the Secured Health platform, including building the web interface for a new user type called a 'Liaison.' Developed multiple UI screens and supporting frameworks for this role. Contributed to backend functionality by creating RESTful APIs for data management and implementing two-factor authentication to enhance security.",
         timeline: "May 2025 - August 2025",
-    }
+    },
+    {
+      id: 5,
+      title: "Data Analyst Extern at Beats by Dr. Dre",
+      description: "Analyze product and marketing data using Python and Pandas, create visualizations with Matplotlib, and generate insights for product performance and competitive benchmarking.",
+      timeline: "May 2025 - June 2025",
+    },
   ];
   
   export default experiences;

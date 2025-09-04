@@ -13,8 +13,17 @@ const projects = [
     shortDescription: "Personal portfolio built with React",
     fullDescription: "A modern, responsive portfolio website showcasing my projects, experience, and skills. Built with React, CSS, and JavaScript.",
     technologies: ["React", "CSS", "JavaScript"],
-    link: "https://github.com/pallavishankarr/portfolio",
+    link: "https://github.com/pallavishankarr/Personal-Website",
   },
+  {
+    id: 3,
+    title: "Pawns Board Game",
+    shortDescription: "A two-player strategy game inspired by Queen's Blood. Built with Java.",
+    fullDescription: "A two-player strategy game inspired by Queen's Blood. Players place cards on a grid board to compete for row control using pawns and cards. The player with the highest row-based score wins.",
+    technologies: ["Java"],
+    link: "https://github.com/rachelelevathingal/CS3500Assignment5",
+  },
+  
 ];
 
 export default projects;
